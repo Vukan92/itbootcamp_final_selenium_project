@@ -1,6 +1,5 @@
 .metadata
 bin/
-src/p**
 tmp/
 *.tmp
 *.bak
